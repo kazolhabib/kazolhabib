@@ -12,20 +12,12 @@
     <a href="mailto:kazoll.habibb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </div>
 
-<div align="center" justify-content="space-between">
-    <a href="./README-RU.md"><img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge"></a>
- <a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
-</div>
-
-<div align="center">
-    <a href="https://user-badge.committers.top/bangladesh/kazolhabib"><img src="https://user-badge.committers.top/bangladesh/kazolhabib.svg"></a>
-</div>
+📍 **Location:** Tangail, Dhaka, Bangladesh
 
 ## 👻 A little about me
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kazolhabib&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-📍 **Location:** Tangail, Dhaka, Bangladesh
 
 I am a **Frontend Developer & Webflow Expert** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
 
@@ -155,12 +147,18 @@ const KazolHabib = {
 </details>
 
 <details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=kazolhabib&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="kazolhabib profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=kazolhabib&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <img alt="kazolhabib Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kazolhabib&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
- <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazolhabib&layout=compact&theme=transparent"/>
-     <img src="https://github-readme-stats.vercel.app/api?username=kazolhabib&show_icons=true&theme=transparent"/>
-        <img alt="kazolhabib's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=kazolhabib&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" />
- </div>
+<summary><h2>📊 Statistics</h2></summary>
+    <br/>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kazolhabib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Kazol Habib's GitHub Stats" />
+        <br/><br/>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=kazolhabib&theme=dark&hide_border=false" alt="Kazol Habib's GitHub Streak" />
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazolhabib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+        <br/><br/>
+        <hr/>
+        <a href="https://visitcount.itsvg.in">
+            <img src="https://visitcount.itsvg.in/api?id=kazolhabib&icon=0&color=0" alt="Profile View Counter" />
+        </a>
+    </div>
 </details>
