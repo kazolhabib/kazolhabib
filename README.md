@@ -147,7 +147,20 @@ const KazolHabib = {
 </details>
 
 <br/>
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics & Activity</h2>
+<br/>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kazolhabib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=kazolhabib&theme=dracula&hide_border=true&custom_title=Contributions" alt="Activity Graph" width="100%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazolhabib&theme=dracula" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazolhabib&theme=dracula&utcOffset=6" alt="Productive Time" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <hr/>
+  <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=kazolhabib&icon=0&color=0" alt="Profile View Counter" />
+  </a>
 </div>
