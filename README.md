@@ -12,7 +12,7 @@
     <a href="mailto:kazoll.habibb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </div>
 
-📍 **Location:** Tangail, Dhaka, Bangladesh
+<p align="center">📍 <b>Location:</b> Tangail, Dhaka, Bangladesh</p>
 
 ## 👻 A little about me
 
@@ -146,19 +146,16 @@ const KazolHabib = {
     </table>
 </details>
 
-<details open>
-<summary><h2>📊 Statistics</h2></summary>
-    <br/>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kazolhabib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Kazol Habib's GitHub Stats" />
-        <br/><br/>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=kazolhabib&theme=dark&hide_border=false" alt="Kazol Habib's GitHub Streak" />
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazolhabib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-        <br/><br/>
-        <hr/>
-        <a href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=kazolhabib&icon=0&color=0" alt="Profile View Counter" />
-        </a>
-    </div>
-</details>
+<br/>
+<h2 align="center">📊 GitHub Statistics</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kazolhabib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazolhabib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazolhabib&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <br/><br/>
+    <hr/>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=kazolhabib&icon=0&color=0" alt="Profile View Counter" />
+    </a>
+</div>
