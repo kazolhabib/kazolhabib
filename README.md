@@ -51,39 +51,55 @@ const KazolHabib = {
 
 <details open>
 <summary><a name="projects"><a/><h2>🚀 Featured Projects</h2></summary>
-    <div align="center">
-        <h3>Webflow Portfolio</h3>
-        <p>A clean and modern portfolio showcasing my Webflow development skills.</p>
-        <a href="https://kazol-dev.webflow.io/">Live Demo</a>
-        <br/><br/>
-        <h3>Tourism Website (Ongoing)</h3>
-        <p>A tourism platform with modern UI built with React and Tailwind.</p>
-        <br/><br/>
-        <h3>AI SuitUp</h3>
-        <p>Get professional AI-generated headshots with AI SuitUp.</p>
-        <a href="https://www.aisuitup.com/">Live Demo</a>
-        <br/><br/>
-        <h3>Trez</h3>
-        <p>Easy and affordable payroll and benefits administration for small businesses.</p>
-        <a href="https://www.trez.co/">Live Demo</a>
-        <br/><br/>
-        <h3>Gartnerforbundet</h3>
-        <p>Modern website developed for Gartnerforbundet.</p>
-        <a href="https://9643---gartnerforbundet-nettsider.webflow.io/">Live Demo</a>
-        <br/><br/>
-        <h3>Amply</h3>
-        <p>Website design and development for High-Growth B2B.</p>
-        <a href="https://www.joinamply.com/">Live Demo</a>
-        <br/><br/>
-        <h3>Adsbyjoris</h3>
-        <p>Multi-Channel scaling system for paid ads.</p>
-        <a href="https://www.adsbyjoris.com/">Live Demo</a>
-        <br/><br/>
-        <h3>Tixio</h3>
-        <p>Team collaboration tool for fast-moving teams.</p>
-        <a href="https://tixio.io/">Live Demo</a>
-        <br/>
-    </div>
+    <table width="100%">
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <h3>Webflow Portfolio</h3>
+                <p>A clean and modern portfolio showcasing my Webflow development skills.</p>
+                <a href="https://kazol-dev.webflow.io/"><b>Live Demo</b></a>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <h3>Tourism Website (Ongoing)</h3>
+                <p>A tourism platform with modern UI built with React and Tailwind.</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <h3>AI SuitUp</h3>
+                <p>Get professional AI-generated headshots with AI SuitUp.</p>
+                <a href="https://www.aisuitup.com/"><b>Live Demo</b></a>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <h3>Trez</h3>
+                <p>Easy and affordable payroll and benefits administration for small businesses.</p>
+                <a href="https://www.trez.co/"><b>Live Demo</b></a>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <h3>Gartnerforbundet</h3>
+                <p>Modern website developed for Gartnerforbundet.</p>
+                <a href="https://9643---gartnerforbundet-nettsider.webflow.io/"><b>Live Demo</b></a>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <h3>Amply</h3>
+                <p>Website design and development for High-Growth B2B.</p>
+                <a href="https://www.joinamply.com/"><b>Live Demo</b></a>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <h3>Adsbyjoris</h3>
+                <p>Multi-Channel scaling system for paid ads.</p>
+                <a href="https://www.adsbyjoris.com/"><b>Live Demo</b></a>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <h3>Tixio</h3>
+                <p>Team collaboration tool for fast-moving teams.</p>
+                <a href="https://tixio.io/"><b>Live Demo</b></a>
+            </td>
+        </tr>
+    </table>
 </details>
 
 <details open>
