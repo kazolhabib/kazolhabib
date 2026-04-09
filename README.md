@@ -13,7 +13,6 @@
     <a href="mailto:kazoll.habibb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </div>
 
-<p align="center">📍 <b>Location:</b> Tangail, Dhaka, Bangladesh</p>
 
 ## 👻 A little about me
 
@@ -46,10 +45,9 @@ const KazolHabib = {
 
 <br/>
 <h2 align="center">💻 Tech Stack</h2>
-<br/>
+
+<h3 align="center">🌐 Frontend & UI</h3>
 <div align="center">
-    <h3>🌐 Frontend & UI</h3>
-    <br/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -60,10 +58,12 @@ const KazolHabib = {
     <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/>
-    <br/><br/><br/>
-    
-    <h3>⚙️ Backend, Database & Ops</h3>
-    <br/>
+</div>
+
+<br/>
+
+<h3 align="center">⚙️ Backend, Database & Ops</h3>
+<div align="center">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
@@ -75,10 +75,12 @@ const KazolHabib = {
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <br/><br/><br/>
+</div>
 
-    <h3>🎨 Design & Tools</h3>
-    <br/>
+<br/>
+
+<h3 align="center">🎨 Design & Tools</h3>
+<div align="center">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"/>
     <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
