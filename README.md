@@ -25,6 +25,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kazolhabib&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
+📍 **Location:** Tangail, Dhaka, Bangladesh
+
 I am a **Frontend Developer & Webflow Expert** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
 
 Currently I am engaged in the development of modern **Webflow client projects** and periodically fulfill orders on freelancing. I specialize in creating websites, applications, and performance-optimized UI/UX.
@@ -57,49 +59,96 @@ const KazolHabib = {
     <table width="100%">
         <tr>
             <td width="50%" align="center" valign="top">
-                <h3>Webflow Portfolio</h3>
-                <p>A clean and modern portfolio showcasing my Webflow development skills.</p>
-                <a href="https://kazol-dev.webflow.io/"><b>Live Demo</b></a>
+                <br/>
+                <h3>🌐 Webflow Portfolio</h3>
+                <br/>
+                <p><i>A clean and modern portfolio showcasing my Webflow development skills.</i></p>
+                <br/>
+                <a href="https://kazol-dev.webflow.io/">
+                    <img src="https://img.shields.io/badge/Live_Demo-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Live Demo" />
+                </a>
+                <br/><br/>
             </td>
             <td width="50%" align="center" valign="top">
-                <h3>Tourism Website (Ongoing)</h3>
-                <p>A tourism platform with modern UI built with React and Tailwind.</p>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%" align="center" valign="top">
-                <h3>AI SuitUp</h3>
-                <p>Get professional AI-generated headshots with AI SuitUp.</p>
-                <a href="https://www.aisuitup.com/"><b>Live Demo</b></a>
-            </td>
-            <td width="50%" align="center" valign="top">
-                <h3>Trez</h3>
-                <p>Easy and affordable payroll and benefits administration for small businesses.</p>
-                <a href="https://www.trez.co/"><b>Live Demo</b></a>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%" align="center" valign="top">
-                <h3>Gartnerforbundet</h3>
-                <p>Modern website developed for Gartnerforbundet.</p>
-                <a href="https://9643---gartnerforbundet-nettsider.webflow.io/"><b>Live Demo</b></a>
-            </td>
-            <td width="50%" align="center" valign="top">
-                <h3>Amply</h3>
-                <p>Website design and development for High-Growth B2B.</p>
-                <a href="https://www.joinamply.com/"><b>Live Demo</b></a>
+                <br/>
+                <h3>✈️ Tourism Website</h3>
+                <br/>
+                <p><i>A tourism platform with modern UI built with React and Tailwind (Ongoing).</i></p>
+                <br/>
+                <img src="https://img.shields.io/badge/In_Progress-FFA500?style=for-the-badge&logo=react&logoColor=white" alt="In Progress" />
+                <br/><br/>
             </td>
         </tr>
         <tr>
             <td width="50%" align="center" valign="top">
-                <h3>Adsbyjoris</h3>
-                <p>Multi-Channel scaling system for paid ads.</p>
-                <a href="https://www.adsbyjoris.com/"><b>Live Demo</b></a>
+                <br/>
+                <h3>🤖 AI SuitUp</h3>
+                <br/>
+                <p><i>Get professional AI-generated headshots with AI SuitUp.</i></p>
+                <br/>
+                <a href="https://www.aisuitup.com/">
+                    <img src="https://img.shields.io/badge/Live_Demo-27A0D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+                </a>
+                <br/><br/>
             </td>
             <td width="50%" align="center" valign="top">
-                <h3>Tixio</h3>
-                <p>Team collaboration tool for fast-moving teams.</p>
-                <a href="https://tixio.io/"><b>Live Demo</b></a>
+                <br/>
+                <h3>💳 Trez</h3>
+                <br/>
+                <p><i>Easy and affordable payroll and benefits administration for businesses.</i></p>
+                <br/>
+                <a href="https://www.trez.co/">
+                    <img src="https://img.shields.io/badge/Live_Demo-27A0D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+                </a>
+                <br/><br/>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <br/>
+                <h3>🌱 Gartnerforbundet</h3>
+                <br/>
+                <p><i>Modern website developed for Gartnerforbundet.</i></p>
+                <br/>
+                <a href="https://9643---gartnerforbundet-nettsider.webflow.io/">
+                    <img src="https://img.shields.io/badge/Live_Demo-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Live Demo" />
+                </a>
+                <br/><br/>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <br/>
+                <h3>📈 Amply</h3>
+                <br/>
+                <p><i>Website design and development for High-Growth B2B.</i></p>
+                <br/>
+                <a href="https://www.joinamply.com/">
+                    <img src="https://img.shields.io/badge/Live_Demo-27A0D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+                </a>
+                <br/><br/>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <br/>
+                <h3>📢 Adsbyjoris</h3>
+                <br/>
+                <p><i>Multi-Channel scaling system for paid ads.</i></p>
+                <br/>
+                <a href="https://www.adsbyjoris.com/">
+                    <img src="https://img.shields.io/badge/Live_Demo-27A0D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+                </a>
+                <br/><br/>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <br/>
+                <h3>🔥 Tixio</h3>
+                <br/>
+                <p><i>Team collaboration tool for fast-moving teams.</i></p>
+                <br/>
+                <a href="https://tixio.io/">
+                    <img src="https://img.shields.io/badge/Live_Demo-27A0D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+                </a>
+                <br/><br/>
             </td>
         </tr>
     </table>
