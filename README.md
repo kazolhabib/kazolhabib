@@ -157,10 +157,3 @@ const KazolHabib = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazolhabib&theme=dracula" alt="GitHub Stats" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazolhabib&theme=dracula&utcOffset=6" alt="Productive Time" width="48%" />
 </div>
-<br/>
-<div align="center">
-  <hr/>
-  <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=kazolhabib&icon=0&color=0" alt="Profile View Counter" />
-  </a>
-</div>
