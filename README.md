@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="./assets/Personal%20Profile%20New%20LinkedIn%20Banner.png?v=1" width="100%" alt="Personal Profile Banner"/>
+  <img src="./assets/Personal-Profile-Banner-New.png" width="100%" alt="Personal Profile Banner"/>
   <br/>
   
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=4353FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hi+there!+I'm+Kazol+Habib+👋;Frontend+Developer;Webflow+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2500&amp;pause=1000&amp;color=4353FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;height=60&amp;lines=Hi+there!+I%27m+Kazol+Habib+%F0%9F%91%8B;Frontend+Developer;Webflow+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kazol-habib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/kazollhabib/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/kazollhabib/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:kazoll.habibb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/kazol-habib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/kazollhabib/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/kazollhabib/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:kazoll.habibb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazolhabib&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazolhabib&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazolhabib&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazolhabib&amp;theme=radical&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br />
