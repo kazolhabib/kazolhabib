@@ -18,7 +18,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazolhabib&amp;theme=dracula" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kazolhabib&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazolhabib&amp;theme=radical&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br />
