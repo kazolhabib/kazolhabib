@@ -19,7 +19,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazolhabib&amp;theme=dracula" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazolhabib&amp;theme=radical&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br />
@@ -165,9 +164,3 @@ Kazol.code();
 </div>
 
 <br />
-
-<div align="center">
-  <a href="https://github.com/kazolhabib">
-    <img src="https://github-profile-trophy.vercel.app/?username=kazolhabib&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
